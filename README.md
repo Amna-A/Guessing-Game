@@ -1,5 +1,5 @@
 # Guessing-Game
-A Simple Guessing Game Project
+A Simple Number Guessing Game Project
 
 guess the number project
 1- user enters number
