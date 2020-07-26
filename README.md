@@ -1,5 +1,6 @@
 # Guessing-Game
-A Simple Number Guessing Game Project
+A Simple Number Guessing Game Project using only python
+Beginner Level
 
 guess the number project
 1- user enters number
