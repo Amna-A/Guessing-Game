@@ -1,5 +1,5 @@
 # Guessing-Game
-A Simple Number Guessing Game Project using only python
+A Simple Number Guessing Game Project using python to commemorate my python Begginer days.
 Beginner Level.
 Beacuse what could be best as a first repository than a classic guessing game !
 
